@@ -1,2 +1,2 @@
 # Majorana-Models
-Analysis of Kitaev Chian and Honeycomb model as my personal understanding
+Analysis of Kitaev Honeycomb model as my personal understanding
